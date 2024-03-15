@@ -19,4 +19,5 @@ Searched cities will be added to the search history for easy access.
 
 App : https://westmarquest.github.io/weather-app/
 
-![Uploading Image 3-14-24 at 10.00 PM.jpg…]()
+
+![C538F32B-7EFB-4AB5-9001-17B21DF0939A_1_201_a](https://github.com/westmarquest/weather-app/assets/153345373/8826353a-e37c-4c0a-8892-030dfb6bde67)
