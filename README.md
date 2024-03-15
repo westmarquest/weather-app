@@ -16,3 +16,7 @@ Enter the name of the city you want to search for in the input field.
 Click on the "Search" button or press Enter.
 View the current weather conditions and 5-day forecast for the searched city.
 Searched cities will be added to the search history for easy access.
+
+App : https://westmarquest.github.io/weather-app/
+
+![Uploading Image 3-14-24 at 10.00 PM.jpg…]()
